@@ -31,8 +31,11 @@ The project is organized as follows:
 Installation
 
 git clone https://github.com/nkvinnesland/wheel-of-fortune-game.git
+
 cd wheel-of-fortune-game
+
 javac *.java
+
 java WheelOfFortuneAIGame
 
 Sample Usage
